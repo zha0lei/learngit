@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/kube-apiserver:v1.12.0
+FROM quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.26.2
